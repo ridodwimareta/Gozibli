@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 import {
-    AppRegistry,
-    Text,
-    View,
-    StyleSheet,
-    Image,
-}
+        AppRegistry,
+        Text,
+        View,
+        StyleSheet,
+        Image,
+    }
 from 'react-native';
 import logo from '../../assets/img/logotanpateks.png';
 
@@ -20,7 +20,7 @@ export default class Screen1 extends Component {
                     <View style={style.iconSlide3}/>
                 </View>
                 <View style={style.wrapperTextLogo}>
-                    <Text style={style.textLogo}>GoZibli</Text>
+                    <Text style={style.textLogo}>GoZibil</Text>
                     <Text  style={style.textSmall}>For Your Waste Management</Text>
                 </View>
             </View>
